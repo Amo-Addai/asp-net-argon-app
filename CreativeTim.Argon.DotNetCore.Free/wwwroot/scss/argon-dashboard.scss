@@ -1,0 +1,61 @@
+// Core
+
+@import "argon-app/custom/functions";
+@import "argon-app/custom/variables";
+@import "argon-app/custom/mixins";
+
+// bootstrap (4.3.1) components
+
+@import "argon-app/bootstrap/root";
+@import "argon-app/bootstrap/reboot";
+@import "argon-app/bootstrap/type";
+@import "argon-app/bootstrap/images";
+@import "argon-app/bootstrap/code";
+@import "argon-app/bootstrap/grid";
+@import "argon-app/bootstrap/tables";
+@import "argon-app/bootstrap/forms";
+@import "argon-app/bootstrap/buttons";
+@import "argon-app/bootstrap/transitions";
+@import "argon-app/bootstrap/dropdown";
+@import "argon-app/bootstrap/button-group";
+@import "argon-app/bootstrap/input-group";
+@import "argon-app/bootstrap/custom-forms";
+@import "argon-app/bootstrap/nav";
+@import "argon-app/bootstrap/navbar";
+@import "argon-app/bootstrap/card";
+@import "argon-app/bootstrap/breadcrumb";
+@import "argon-app/bootstrap/pagination";
+@import "argon-app/bootstrap/badge";
+@import "argon-app/bootstrap/jumbotron";
+@import "argon-app/bootstrap/alert";
+@import "argon-app/bootstrap/progress";
+@import "argon-app/bootstrap/media";
+@import "argon-app/bootstrap/list-group";
+@import "argon-app/bootstrap/close";
+@import "argon-app/bootstrap/modal";
+@import "argon-app/bootstrap/tooltip";
+@import "argon-app/bootstrap/popover";
+@import "argon-app/bootstrap/carousel";
+@import "argon-app/bootstrap/utilities";
+@import "argon-app/bootstrap/print";
+
+// Argon utilities and components
+
+@import "argon-app/custom/reboot";
+@import "argon-app/custom/utilities";
+@import "argon-app/custom/components";
+
+// Vendor (Plugins)
+
+@import "argon-app/custom/vendors";
+
+// Docs components
+
+@import "argon-app/docs/variables";
+@import "argon-app/docs/nav";
+@import "argon-app/docs/clipboard-js";
+@import "argon-app/docs/component-examples";
+@import "argon-app/docs/prism";
+@import "argon-app/docs/content";
+@import "argon-app/docs/sidebar";
+@import "argon-app/docs/footer";
